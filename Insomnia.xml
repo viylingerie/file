@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2018-04-01 12:00">
+    <shop>
+        <name>Insomnia</name>
+        <company>Insomnia</company>
+        <url></url>
+        <currencies>
+            <currency id="UAH" rate="1" />
+        </currencies>
+        <categories>
+            <category id="1">Нижнее белье</category>
+        </categories>
+        <offers>
+            <offer available="true" id="00001">
+                <url></url>
+                <price>850</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5365.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5353.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5358.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5372.JPG?raw=true</picture>
+                <name>Комплект нижнего белья Elena 70A-XS 00001</name>
+                <vendor>Insomnia</vendor>
+                <description><![CDATA[
+				<p>Нижнее белье<b>Insomnia</b>Интернет магазин Insomnia представляет украинский бренд нижнего женского белья Viychuk lingerie создан в 2015 году.
+Мы представлены в нескольких городах Украины, Черновцы, Львов, Киев.
+Наша цель - создавать комфорт и эстетику в повседневной жизни женщины, красивое белье создано не только для "особого дня" а для того чтобы Вы в нем жили.
+С каждой коллекцией мы добавляем новые модели в наш ассортимент. </ P>
+<P> Теперь у нас можно приобрести белье с мягкими чашками, белье с косточками, купальники - целый год, боди и шелковые накидки. </ P>
+<P> Viychuk lingerie <b> New Collection </ b> Комплект Elena создает ваш комфорт и нежность</ P>
+				]]>
+</description>
+                <param name="Вид">Комплект нижнего белья</param>
+                <param name="Размер">70А-XS</param>
+				<param name="Чашка">На косточках</param>
+                <param name="Категория">Комплекты белья</param>
+                <param name="Цвет">Черный</param>
+                <param name="Застежка">Крючки</param>
+                <param name="Посадка трусиков">Средняя</param>
+                <param name="Бретели">Регулируемые, Тонкие</param>
+				<param name="Материал">Полиамид</param>
+				<param name="Состав">Полиамид 80%,20% Эластан </param>
+				<param name="Страна-производитель">Украина</param>
+				<param name="Доставка/Оплата">Предоплата 100%. Срок доставки 1-3 дней</param>
+                <stock_quantity>50</stock_quantity>
+            </offer>
+			
+			
+					<offer available="true" id="00002">
+                <url></url>
+                <price>850</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5365.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5353.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5358.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5372.JPG?raw=true</picture>
+                <name>Комплект нижнего белья Elena 70B-S 00002</name>
+                <vendor>Insomnia</vendor>
+                <description><![CDATA[
+				<p>Нижнее белье<b>Insomnia</b>Интернет магазин Insomnia представляет украинский бренд нижнего женского белья Viychuk lingerie создан в 2015 году.
+Мы представлены в нескольких городах Украины, Черновцы, Львов, Киев.
+Наша цель - создавать комфорт и эстетику в повседневной жизни женщины, красивое белье создано не только для "особого дня" а для того чтобы Вы в нем жили.
+С каждой коллекцией мы добавляем новые модели в наш ассортимент. </ P>
+<P> Теперь у нас можно приобрести белье с мягкими чашками, белье с косточками, купальники - целый год, боди и шелковые накидки. </ P>
+<P> Viychuk lingerie <b> New Collection </ b> Комплект Elena создает ваш комфорт и нежность</ P>
+				]]>
+</description>
+                <param name="Вид">Комплект нижнего белья</param>
+                <param name="Размер">70B-S</param>
+				<param name="Чашка">На косточках</param>
+                <param name="Категория">Комплекты белья</param>
+                <param name="Цвет">Черный</param>
+                <param name="Застежка">Крючки</param>
+                <param name="Посадка трусиков">Средняя</param>
+                <param name="Бретели">Регулируемые, Тонкие</param>
+				<param name="Материал">Полиамид</param>
+				<param name="Состав">Полиамид 80%,20% Эластан </param>
+				<param name="Страна-производитель">Украина</param>
+				<param name="Доставка/Оплата">Предоплата 100%. Срок доставки 1-3 дней</param>
+                <stock_quantity>50</stock_quantity>
+            </offer>
+			
+			
+			
+						<offer available="true" id="00003">
+                <url></url>
+                <price>850</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5365.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5353.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5358.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5372.JPG?raw=true</picture>
+                <name>Комплект нижнего белья Elena 75A-S 00003</name>
+                <vendor>Insomniia</vendor>
+                <description><![CDATA[
+				<p>Нижнее белье<b>Insomnia</b>Интернет магазин Insomnia представляет украинский бренд нижнего женского белья Viychuk lingerie создан в 2015 году.
+Мы представлены в нескольких городах Украины, Черновцы, Львов, Киев.
+Наша цель - создавать комфорт и эстетику в повседневной жизни женщины, красивое белье создано не только для "особого дня" а для того чтобы Вы в нем жили.
+С каждой коллекцией мы добавляем новые модели в наш ассортимент. </ P>
+<P> Теперь у нас можно приобрести белье с мягкими чашками, белье с косточками, купальники - целый год, боди и шелковые накидки. </ P>
+<P> Viychuk lingerie <b> New Collection </ b> Комплект Elena создает ваш комфорт и нежность</ P>
+				]]>
+</description>
+                <param name="Вид">Комплект нижнего белья</param>
+                <param name="Размер">75А-S</param>
+				<param name="Чашка">На косточках</param>
+                <param name="Категория">Комплекты белья</param>
+                <param name="Цвет">Черный</param>
+                <param name="Застежка">Крючки</param>
+                <param name="Посадка трусиков">Средняя</param>
+                <param name="Бретели">Регулируемые, Тонкие</param>
+				<param name="Материал">Полиамид</param>
+				<param name="Состав">Полиамид 80%,20% Эластан </param>
+				<param name="Страна-производитель">Украина</param>
+				<param name="Доставка/Оплата">Предоплата 100%. Срок доставки 1-3 дней</param>
+                <stock_quantity>50</stock_quantity>
+            </offer>
+			
+			
+			
+			
+					 <offer available="true" id="00004">
+                <url></url>
+                <price>850</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5365.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5353.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5358.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5372.JPG?raw=true</picture>
+                <name>Комплект нижнего белья Elena 75A-M 00004</name>
+                <vendor>Insomnia</vendor>
+                <description><![CDATA[
+				<p>Нижнее белье<b>Insomnia</b>Интернет магазин Insomnia представляет украинский бренд нижнего женского белья Viychuk lingerie создан в 2015 году.
+Мы представлены в нескольких городах Украины, Черновцы, Львов, Киев.
+Наша цель - создавать комфорт и эстетику в повседневной жизни женщины, красивое белье создано не только для "особого дня" а для того чтобы Вы в нем жили.
+С каждой коллекцией мы добавляем новые модели в наш ассортимент. </ P>
+<P> Теперь у нас можно приобрести белье с мягкими чашками, белье с косточками, купальники - целый год, боди и шелковые накидки. </ P>
+<P> Viychuk lingerie <b> New Collection </ b> Комплект Elena создает ваш комфорт и нежность</ P>
+				]]>
+</description>
+                <param name="Вид">Комплект нижнего белья</param>
+                <param name="Размер">75A-M</param>
+				<param name="Чашка">На косточках</param>
+                <param name="Категория">Комплекты белья</param>
+                <param name="Цвет">Черный</param>
+                <param name="Застежка">Крючки</param>
+                <param name="Посадка трусиков">Средняя</param>
+                <param name="Бретели">Регулируемые, Тонкие</param>
+				<param name="Материал">Полиамид</param>
+				<param name="Состав">Полиамид 80%,20% Эластан </param>
+				<param name="Страна-производитель">Украина</param>
+				<param name="Доставка/Оплата">Предоплата 100%. Срок доставки 1-3 дней</param>
+                <stock_quantity>50</stock_quantity>
+            </offer>
+			
+					 <offer available="true" id="00005">
+                <url></url>
+                <price>850</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5365.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5353.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5358.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5372.JPG?raw=true</picture>
+                <name>Комплект нижнего белья Elena 75B-S 00005</name>
+                <vendor>Insomnia</vendor>
+                <description><![CDATA[
+				<p>Нижнее белье<b>Insomnia</b>Интернет магазин Insomnia представляет украинский бренд нижнего женского белья Viychuk lingerie создан в 2015 году.
+Мы представлены в нескольких городах Украины, Черновцы, Львов, Киев.
+Наша цель - создавать комфорт и эстетику в повседневной жизни женщины, красивое белье создано не только для "особого дня" а для того чтобы Вы в нем жили.
+С каждой коллекцией мы добавляем новые модели в наш ассортимент. </ P>
+<P> Теперь у нас можно приобрести белье с мягкими чашками, белье с косточками, купальники - целый год, боди и шелковые накидки. </ P>
+<P> Viychuk lingerie <b> New Collection </ b> Комплект Elena создает ваш комфорт и нежность</ P>
+				]]>
+</description>
+                <param name="Вид">Комплект нижнего белья</param>
+                <param name="Размер">75B-S</param>
+				<param name="Чашка">На косточках</param>
+                <param name="Категория">Комплекты белья</param>
+                <param name="Цвет">Черный</param>
+                <param name="Застежка">Крючки</param>
+                <param name="Посадка трусиков">Средняя</param>
+                <param name="Бретели">Регулируемые, Тонкие</param>
+				<param name="Материал">Полиамид</param>
+				<param name="Состав">Полиамид 80%,20% Эластан </param>
+				<param name="Страна-производитель">Украина</param>
+				<param name="Доставка/Оплата">Предоплата 100%. Срок доставки 1-3 дней</param>
+                <stock_quantity>50</stock_quantity>
+            </offer>
+			
+			 <offer available="true" id="00006">
+                <url></url>
+                <price>850</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5365.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5353.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5358.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5372.JPG?raw=true</picture>
+                <name>Комплект нижнего белья Elena 75B-M 00006</name>
+                <vendor>Insomnia</vendor>
+                <description><![CDATA[
+				<p>Нижнее белье<b>Insomnia</b>Интернет магазин Insomnia представляет украинский бренд нижнего женского белья Viychuk lingerie создан в 2015 году.
+Мы представлены в нескольких городах Украины, Черновцы, Львов, Киев.
+Наша цель - создавать комфорт и эстетику в повседневной жизни женщины, красивое белье создано не только для "особого дня" а для того чтобы Вы в нем жили.
+С каждой коллекцией мы добавляем новые модели в наш ассортимент. </ P>
+<P> Теперь у нас можно приобрести белье с мягкими чашками, белье с косточками, купальники - целый год, боди и шелковые накидки. </ P>
+<P> Viychuk lingerie <b> New Collection </ b> Комплект Elena создает ваш комфорт и нежность</ P>
+				]]>
+</description>
+                <param name="Вид">Комплект нижнего белья</param>
+                <param name="Размер">75B-M</param>
+				<param name="Чашка">На косточках</param>
+                <param name="Категория">Комплекты белья</param>
+                <param name="Цвет">Черный</param>
+                <param name="Застежка">Крючки</param>
+                <param name="Посадка трусиков">Средняя</param>
+                <param name="Бретели">Регулируемые, Тонкие</param>
+				<param name="Материал">Полиамид</param>
+				<param name="Состав">Полиамид 80%,20% Эластан </param>
+				<param name="Страна-производитель">Украина</param>
+				<param name="Доставка/Оплата">Предоплата 100%. Срок доставки 1-3 дней</param>
+                <stock_quantity>50</stock_quantity>
+            </offer>
+			
+					 <offer available="true" id="00007">
+                <url></url>
+                <price>850</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5365.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5353.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5358.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5372.JPG?raw=true</picture>
+                <name>Комплект нижнего белья Elena 75C-S 00007</name>
+                <vendor>Insomnia</vendor>
+                <description><![CDATA[
+				<p>Нижнее белье<b>Insomnia</b>Интернет магазин Insomnia представляет украинский бренд нижнего женского белья Viychuk lingerie создан в 2015 году.
+Мы представлены в нескольких городах Украины, Черновцы, Львов, Киев.
+Наша цель - создавать комфорт и эстетику в повседневной жизни женщины, красивое белье создано не только для "особого дня" а для того чтобы Вы в нем жили.
+С каждой коллекцией мы добавляем новые модели в наш ассортимент. </ P>
+<P> Теперь у нас можно приобрести белье с мягкими чашками, белье с косточками, купальники - целый год, боди и шелковые накидки. </ P>
+<P> Viychuk lingerie <b> New Collection </ b> Комплект Elena создает ваш комфорт и нежность</ P>
+				]]>
+</description>
+                <param name="Вид">Комплект нижнего белья</param>
+                <param name="Размер">75C-S</param>
+				<param name="Чашка">На косточках</param>
+                <param name="Категория">Комплекты белья</param>
+                <param name="Цвет">Черный</param>
+                <param name="Застежка">Крючки</param>
+                <param name="Посадка трусиков">Средняя</param>
+                <param name="Бретели">Регулируемые, Тонкие</param>
+				<param name="Материал">Полиамид</param>
+				<param name="Состав">Полиамид 80%,20% Эластан </param>
+				<param name="Страна-производитель">Украина</param>
+				<param name="Доставка/Оплата">Предоплата 100%. Срок доставки 1-3 дней</param>
+                <stock_quantity>50</stock_quantity>
+            </offer>
+			
+					 <offer available="true" id="00008">
+                <url></url>
+                <price>850</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5365.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5353.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5358.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5372.JPG?raw=true</picture>
+                <name>Комплект нижнего белья Elena 75C-M 00008</name>
+                <vendor>Insomnia</vendor>
+                <description><![CDATA[
+				<p>Нижнее белье<b>Insomnia</b>Интернет магазин Insomnia представляет украинский бренд нижнего женского белья Viychuk lingerie создан в 2015 году.
+Мы представлены в нескольких городах Украины, Черновцы, Львов, Киев.
+Наша цель - создавать комфорт и эстетику в повседневной жизни женщины, красивое белье создано не только для "особого дня" а для того чтобы Вы в нем жили.
+С каждой коллекцией мы добавляем новые модели в наш ассортимент. </ P>
+<P> Теперь у нас можно приобрести белье с мягкими чашками, белье с косточками, купальники - целый год, боди и шелковые накидки. </ P>
+<P> Viychuk lingerie <b> New Collection </ b> Комплект Elena создает ваш комфорт и нежность</ P>
+				]]>
+</description>
+                <param name="Вид">Комплект нижнего белья</param>
+                <param name="Размер">75C-M</param>
+				<param name="Чашка">На косточках</param>
+                <param name="Категория">Комплекты белья</param>
+                <param name="Цвет">Черный</param>
+                <param name="Застежка">Крючки</param>
+                <param name="Посадка трусиков">Средняя</param>
+                <param name="Бретели">Регулируемые, Тонкие</param>
+				<param name="Материал">Полиамид</param>
+				<param name="Состав">Полиамид 80%,20% Эластан </param>
+				<param name="Страна-производитель">Украина</param>
+				<param name="Доставка/Оплата">Предоплата 100%. Срок доставки 1-3 дней</param>
+                <stock_quantity>50</stock_quantity>
+            </offer>
+			
+			 <offer available="true" id="00009">
+                <url></url>
+                <price>850</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5365.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5353.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5358.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5372.JPG?raw=true</picture>
+                <name>Комплект нижнего белья Elena 80A-S 00009</name>
+                <vendor>Insomnia</vendor>
+                <description><![CDATA[
+				<p>Нижнее белье<b>Insomnia</b>Интернет магазин Insomnia представляет украинский бренд нижнего женского белья Viychuk lingerie создан в 2015 году.
+Мы представлены в нескольких городах Украины, Черновцы, Львов, Киев.
+Наша цель - создавать комфорт и эстетику в повседневной жизни женщины, красивое белье создано не только для "особого дня" а для того чтобы Вы в нем жили.
+С каждой коллекцией мы добавляем новые модели в наш ассортимент. </ P>
+<P> Теперь у нас можно приобрести белье с мягкими чашками, белье с косточками, купальники - целый год, боди и шелковые накидки. </ P>
+<P> Viychuk lingerie <b> New Collection </ b> Комплект Elena создает ваш комфорт и нежность</ P>
+				]]>
+</description>
+                <param name="Вид">Комплект нижнего белья</param>
+                <param name="Размер">80А-S</param>
+				<param name="Чашка">На косточках</param>
+                <param name="Категория">Комплекты белья</param>
+                <param name="Цвет">Черный</param>
+                <param name="Застежка">Крючки</param>
+                <param name="Посадка трусиков">Средняя</param>
+                <param name="Бретели">Регулируемые, Тонкие</param>
+				<param name="Материал">Полиамид</param>
+				<param name="Состав">Полиамид 80%,20% Эластан </param>
+				<param name="Страна-производитель">Украина</param>
+				<param name="Доставка/Оплата">Предоплата 100%. Срок доставки 1-3 дней</param>
+                <stock_quantity>50</stock_quantity>
+            </offer>
+			 <offer available="true" id="00010">
+                <url></url>
+                <price>850</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5365.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5353.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5358.JPG?raw=true</picture>
+                <picture>https://github.com/viylingerie/Rozetka/blob/master/IMG_5372.JPG?raw=true</picture>
+                <name>Комплект нижнего белья Elena 80B-M 00010</name>
+                <vendor>Insomnia</vendor>
+                <description><![CDATA[
+				<p>Нижнее белье<b>Insomnia</b>Интернет магазин Insomnia представляет украинский бренд нижнего женского белья Viychuk lingerie создан в 2015 году.
+Мы представлены в нескольких городах Украины, Черновцы, Львов, Киев.
+Наша цель - создавать комфорт и эстетику в повседневной жизни женщины, красивое белье создано не только для "особого дня" а для того чтобы Вы в нем жили.
+С каждой коллекцией мы добавляем новые модели в наш ассортимент. </ P>
+<P> Теперь у нас можно приобрести белье с мягкими чашками, белье с косточками, купальники - целый год, боди и шелковые накидки. </ P>
+<P> Viychuk lingerie <b> New Collection </ b> Комплект Elena создает ваш комфорт и нежность</ P>
+				]]>
+</description>
+                <param name="Вид">Комплект нижнего белья</param>
+                <param name="Размер">80B-M</param>
+				<param name="Чашка">На косточках</param>
+                <param name="Категория">Комплекты белья</param>
+                <param name="Цвет">Черный</param>
+                <param name="Застежка">Крючки</param>
+                <param name="Посадка трусиков">Средняя</param>
+                <param name="Бретели">Регулируемые, Тонкие</param>
+				<param name="Материал">Полиамид</param>
+				<param name="Состав">Полиамид 80%,20% Эластан </param>
+				<param name="Страна-производитель">Украина</param>
+				<param name="Доставка/Оплата">Предоплата 100%. Срок доставки 1-3 дней</param>
+                <stock_quantity>50</stock_quantity>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
